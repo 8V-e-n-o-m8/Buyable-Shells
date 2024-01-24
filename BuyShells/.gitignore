@@ -1,0 +1,17 @@
+﻿# Inore IDE Rider files
+/.idea
+
+# Ignore IDE VS files
+/.vs
+
+# Ignore bin
+/bin
+
+# Ignore bin from VS
+/BuyShells/bin
+
+# Ignore obj from VS
+/BuyShells/obj
+
+# Ignore Properties from VS
+/BuyShells/Properties
