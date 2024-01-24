@@ -1,0 +1,10 @@
+﻿{
+  "name": "BuyableShells",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/8V-e-n-o-m8/Buyable-Shells",
+  "description": "The mod adds the ability to buy shotgun shells for 20 credits in Lethal Company. It also works if the host does not have this mod.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-LethalLib-0.13.2"
+  ]
+}
