@@ -8,7 +8,7 @@ The mod adds the ability to buy shotgun shells for 20 credits in Lethal Company.
 
 |  Version   | Item Name | Price | Server-side | Client-side |
 |:----------:|:---------:| :---: | :---: | :---: |
-| **v1.0.0** |  Shells   | 20 | ✅ | ✅ |
+| **v1.0.0** |  Shells   | 20 | ❌ | ✅ |
 
 
 ## Contributors
