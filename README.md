@@ -2,7 +2,7 @@
 
 ![Stable Version](https://img.shields.io/badge/version-v1.0.0-brightgreen)
 
-The mod adds the ability to buy shotgun shells for 20 credits in Lethal Company. **It also works if the host does not have this mod.**
+The mod adds the ability to buy shotgun cartridges for 20 credits in the Lethal Company. This mod will work if YOU are the server host, otherwise, the delivery rocket will simply not open (We'll see what we can do about it)
 
 ## Changelog
 
