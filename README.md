@@ -2,9 +2,7 @@
 
 ![Stable Version](https://img.shields.io/badge/version-v1.0.0-brightgreen)
 
-The mod adds the ability to buy shotgun shells for 20 credits in shop. **You can use it as server or client side** - but if you use it with connect to other servers (that have not this mod) - you can see a bug, in this case delivery rocket cant be opened, when in order there are only Shells.
-
-In perfect case - client and server should install this mod already for correct working.
+The mod adds the ability to buy shotgun cartridges for 20 credits in the Lethal Company. This mod will work if YOU are the server host, otherwise, the delivery rocket will simply not open (We'll see what we can do about it)
 
 ## Changelog
 
