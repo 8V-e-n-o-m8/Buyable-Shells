@@ -9,6 +9,8 @@ The mod adds the ability to buy shotgun cartridges for 20 credits in the Lethal 
 |  Version   | Item Name | Price | Server-side | Client-side |
 |:----------:|:---------:| :---: | :---: | :---: |
 | **v1.0.0** |  Shells   | 20 | ✅ | ✅ |
+| **v1.0.1** |  Shells   | 20 | ✅ | ✅ |
+| **v1.0.2** |  Shells   | 20 | ✅ | ✅ |
 
 ## Feedback
 
