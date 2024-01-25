@@ -10,7 +10,7 @@ In perfect case - client and server should install this mod already for correct 
 
 |  Version   | Item Name | Price | Server-side | Client-side |
 |:----------:|:---------:| :---: | :---: | :---: |
-| **v1.0.0** |  Shells   | 20 | ❌ | ✅ |
+| **v1.0.0** |  Shells   | 20 | ✅ | ✅ |
 
 
 ## Contributors
