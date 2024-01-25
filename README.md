@@ -10,6 +10,9 @@ The mod adds the ability to buy shotgun cartridges for 20 credits in the Lethal 
 |:----------:|:---------:| :---: | :---: | :---: |
 | **v1.0.0** |  Shells   | 20 | ✅ | ✅ |
 
+## Feedback
+
+If you have a questions - contact me on Discord: https://discordapp.com/users/484750776221171712/
 
 ## Contributors
 <a href="https://github.com/8V-e-n-o-m8/Buyable-Shells/graphs/contributors">
