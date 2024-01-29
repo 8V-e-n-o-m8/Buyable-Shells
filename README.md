@@ -1,6 +1,6 @@
 # BuyPatrons
 
-![Stable Version](https://img.shields.io/badge/version-v1.0.5-brightgreen)
+![Stable Version](https://img.shields.io/badge/version-v1.0.6-brightgreen)
 
 The mod adds the ability to buy shotgun cartridges for 20 credits in Lethal Company. This mod will work if YOU are the server host, otherwise, the delivery rocket will simply not open (We'll see what we can do about it).
 
@@ -14,6 +14,7 @@ The mod adds the ability to buy shotgun cartridges for 20 credits in Lethal Comp
 | **v1.0.3** |  Shells   | 20 | ✅ | ✅ |
 | **v1.0.4** |  Shells   | 20 | ✅ | ✅ |
 | **v1.0.5** |  Shells   | 20 | ✅ | ✅ |
+| **v1.0.6** |  Shells   | 20 | ✅ | ✅ |
 
 ## Feedback
 
