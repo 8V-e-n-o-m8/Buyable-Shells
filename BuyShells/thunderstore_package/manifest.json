@@ -1,10 +1,10 @@
 ﻿{
   "name": "BuyPatrons",
-  "version_number": "1.0.5",
+  "version_number": "1.0.6",
   "website_url": "https://github.com/8V-e-n-o-m8/Buyable-Shells",
   "description": "The mod adds the ability to buy shotgun shells for 20 credits in Lethal Company. This mod will work correct if YOU are the server host.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "Evaisa-LethalLib-0.13.2"
+    "Evaisa-LethalLib-0.14.2"
   ]
 }

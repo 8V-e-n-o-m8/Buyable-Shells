@@ -1,5 +1,8 @@
 # Whats changed
 
+# v.1.0.6
+- Updating the dependency
+
 # v.1.0.5
 - Without changes
 
